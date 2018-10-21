@@ -1,4 +1,4 @@
-package com.gmail.deamon999;
+package com.haascnc.QRcodeGen;
 
 import net.glxn.qrgen.javase.QRCode;
 

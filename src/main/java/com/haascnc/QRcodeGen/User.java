@@ -1,4 +1,4 @@
-package com.gmail.deamon999;
+package com.haascnc.QRcodeGen;
 
 public class User {
     private String info;

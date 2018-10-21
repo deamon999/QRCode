@@ -1,4 +1,4 @@
-package com.gmail.deamon999;
+package com.haascnc.QRcodeGen;
 
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
